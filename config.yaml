@@ -1,4 +1,4 @@
-baseURL: https://gb-research.github.io
+baseURL: https://www.gb-research.github.io
 disableKinds:
   - section
   - taxonomy
