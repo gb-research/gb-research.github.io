@@ -1,4 +1,4 @@
-baseURL: "https://gb-research.github.io"
+baseURL: "https://gb-research.github.io/gb-research"
 disableKinds:
   - section
   - taxonomy
