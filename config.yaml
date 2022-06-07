@@ -1,0 +1,18 @@
+baseURL: https://example.com
+disableKinds:
+  - section
+  - taxonomy
+  - term
+  - RSS
+  - robotsTXT
+defaultContentLanguage: en
+theme: hugo-scroll
+title: GB Research Group
+params:
+  copyright: © GB Research Group
+  description: Website of the Global Business Research Group at Akita International University.
+  favicon: images/GB.png
+  images: images/cover-image.jpg
+  meta:
+    keywords: business, economics, finance, marketing, management, econometrics, data
+  title: GB Research Group
