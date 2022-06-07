@@ -9,7 +9,7 @@ defaultContentLanguage: en
 theme: hugo-scroll
 title: GB Research Group
 params:
-  copyright: © GB Research Group
+  copyright: © GB Research Group (2022)
   description: Website of the Global Business Research Group at Akita International University.
   favicon: images/GB.png
   images: images/cover-image.jpg
